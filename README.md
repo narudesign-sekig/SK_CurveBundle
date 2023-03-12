@@ -12,6 +12,10 @@ https://user-images.githubusercontent.com/2740841/224530467-33dae7ba-5e3f-4a7c-b
 
 ## Insallation
 
+Releaseページから最新版をダウンロードしてください。
+
+https://github.com/narudesign-sekig/SK_CurveBundle/releases
+
 ## Usage
 
 カーブの開始位置となるポリゴンを1つ以上選択して、プラグインを実行します。
