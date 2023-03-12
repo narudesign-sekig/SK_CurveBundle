@@ -24,6 +24,8 @@ https://user-images.githubusercontent.com/2740841/224530467-33dae7ba-5e3f-4a7c-b
 
 生成するカーブの密度(本数)に関連する値です。
 
+![Size](Images/size.png)
+
 実行時にポリゴンのサイズに合わせて微調整されるので、おおよその値と考えてください。
 
 ### jitter (m)
