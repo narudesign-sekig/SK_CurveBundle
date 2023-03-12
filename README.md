@@ -48,5 +48,5 @@ https://user-images.githubusercontent.com/2740841/224530467-33dae7ba-5e3f-4a7c-b
 
 ## Changelog
 
-- rev.1.00 - 13 Mar 2023
+- v1.0.0 - 13 Mar 2023
     - Release of version 1.00, first public release.
